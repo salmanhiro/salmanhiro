@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Salman
+
+🔭 I am currently working on Allure AI as Software Engineer.
+👯 I am looking to collaborate on open source scientifict project, and will spend my weekend for that. 
