@@ -19,4 +19,4 @@ I am Salman
 
 🔭 I am currently working on Allure AI as Software Engineer.
 
-👯 I am looking to collaborate on open source scientifict project, and will spend my weekend for that. 
+👯 I am looking to collaborate on open source science project, and will spend my weekend for that. 
