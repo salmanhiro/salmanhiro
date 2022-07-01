@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 I am Salman
 
-🔭 I am currently working on Allure AI as Software Engineer.
-
-👯 I am looking to collaborate on open source science project, and spending my weekend for it. 
+- 🔭 I am currently working on Allure AI as Software Engineer.
+- 🌱 I’m currently learning neuroscience
+- 👯 I’m looking to collaborate on open source project
+- 💬 Ask me about anything
+- 📫 How to reach me: LinkedIn
+- ⚡ Fun fact: nearly dying on mountain
