@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I am Salman
 
-- 🔭 I am currently working on Allure AI as Machine Learning Software Engineer.
-- 🌱 I’m currently learning neuroscience
+- 🔭 I’m currently working as security software engineer
+- 🌱 I’m currently learning galactic astrophysics. Will continue my grad studies, maybe sometime
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything
 - 📫 How to reach me: LinkedIn
