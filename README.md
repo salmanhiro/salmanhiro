@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Salman
-
 - 🔭 I’m currently working as security software engineer
 - 🌱 I’m currently learning galactic astrophysics. Will continue my grad studies, maybe sometime
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything
-- 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: nearly dying on mountain
