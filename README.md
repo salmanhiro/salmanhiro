@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as security software engineer
-- 🌱 I’m currently learning galactic astrophysics. Will continue my grad studies, maybe sometime
-- 👯 I’m looking to collaborate on open source project
+- 🔭 I’m currently working as a security software engineer
+- 🌱 Aspiring galactic astrophysicist. Will continue my grad studies, maybe sometime
+- 👯 I’m looking to collaborate on open source project in astronomy and astrophysics
 - 💬 Ask me about anything
 - ⚡ Fun fact: nearly dying on mountain
