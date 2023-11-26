@@ -19,4 +19,10 @@ Here are some ideas to get you started:
 - 🌱 Aspiring galactic astrophysicist. Will continue my grad studies, maybe sometime
 - 👯 I’m looking to collaborate on open source project in astronomy and astrophysics
 - 💬 Ask me about anything
-- ⚡ Fun fact: nearly dying on mountain
+- ⚡ Fun facts: ACL injury survivor, made two mountain descents with frostbite, run a half marathon with a torn foot palm
+
+
+## GitHub Stats 📈
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanhiro&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmanhiro&show_icons=true&theme=radical)
