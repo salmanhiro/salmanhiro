@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a security software engineer
 - 🌱 Aspiring galactic astrophysicist. Will continue my grad studies, maybe sometime
-- 👯 I’m looking to collaborate on open source project in astronomy and astrophysics
+- 👯 I’m looking to collaborate on open source project in AI security, robotics, astronomy & astrophysics, and life sciences
 - 💬 Ask me about anything
 - ⚡ Fun facts: ACL injury survivor, made two mountain descents with frostbite, run a half marathon with a torn foot palm
 
