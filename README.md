@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a machine learning engineer
-- 🌱 Aspiring galactic astrophysicist. Will continue my grad studies, maybe sometime
-- 👯 I’m looking to collaborate on open source project in AI security, robotics, astronomy & astrophysics, and life sciences
-- 💬 Ask me about anything
-- ⚡ Fun facts: ACL injury survivor, made two mountain descents with frostbite, run a half marathon with a torn plantar fascia
-
+- 🔭 Postgraduate student at NTHU
 
 ## GitHub Stats 📈
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanhiro&layout=compact&theme=radical)
