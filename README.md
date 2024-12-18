@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Postgraduate student at NTHU
+- 🔭 Graduate student at NTHU
 
 ## GitHub Stats 📈
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanhiro&layout=compact&theme=radical)
